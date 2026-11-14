@@ -191,6 +191,7 @@ git branch -M main
 git remote add origin https://github.com/<your-username>/soundify.git
 git push -u origin main
 ```
+[Live Demo] = https://soundify.ai.studio
 
 2. Deploy to **Vercel**, **Netlify**, or **Cloudflare Pages**:
    - Build command: `npm run build`
